@@ -212,4 +212,4 @@ For full texture support:
 
 ---
 
-*GlassMCB - built by Enzo. Play anywhere. Join everything.*
+*GlassMCB - built by Enzo (Wiffiles). Play anywhere. Join everything.*
